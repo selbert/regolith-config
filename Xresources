@@ -1,0 +1,2 @@
+i3xrocks.date.format2: + %d/%m %H:%M
+i3-wm.i3xrocks.config: /home/tselber/.config/regolith/i3xrocks.config
